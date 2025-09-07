@@ -1,4 +1,4 @@
-#CP-04 - Monitoramento de Vinherias com FIWARE + ESP32 🍷
+*CP-04 - Monitoramento de Vinherias com FIWARE + ESP32 🍷
 
 Ana Luiza De Franco e Rinaldi - RM:564061 
 Giovana Gaspar Larocca - RM:564965 
