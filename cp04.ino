@@ -162,3 +162,12 @@ void handleLuminosity() {
     Serial.println(mensagem.c_str());
     MQTT.publish(TOPICO_PUBLISH_2, mensagem.c_str());
 }
+
+
+/*
+Autores:
+Ana Luiza De Franco e Rinaldi - RM:564061 
+Giovana Gaspar Larocca - RM:564965 
+Giovanna Lins Sayama - RM:565901 
+Rayssa Luzia Portela Aquino - RM:562024
+*/
