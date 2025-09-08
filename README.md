@@ -21,9 +21,9 @@ Rayssa Luzia Portela Aquino - RM:562024
 ### 1) Criar a VM no Microsoft Azure
    - Acesse o Portal Azure.
    - Create a resource -> Virtual Machine
-   - Imagem Ubuntu 22.04 LTS
-   - Adicione regras inbound no NSG para: SSH, MQTT, Node-RED, Orion
-   - Crie a VM e copie o IP público
+   - Imagem Ubuntu 22.04 LTS.
+   - Adicione regras inbound no NSG para: SSH, MQTT, Node-RED, Orion.
+   - Crie a VM e copie o IP público.
 
 ### 2) Acessar a VM via SSH no terminal local
    - ssh usuario@IP_PUBLICO
@@ -38,7 +38,7 @@ Rayssa Luzia Portela Aquino - RM:562024
 
 ### 4) Criar o docker compose para FIWARE + Node-RED + Mosquitto
 
-### 5) Acessar Node-RED e abrir ip publico
+### 5) Acessar Node-RED e abrir ip público
 
 ### 6) Crie fluxos essenciais no Node-RED
 
@@ -48,22 +48,22 @@ Rayssa Luzia Portela Aquino - RM:562024
    - Monte o divisor resistivo:
      3.3v -> LDR -> GND
      Nó A - pino ADC no ESP32 (34)
-   - Conecte o ESP32 via USP ao PC. 
+   - Conecte o ESP32 via USB ao PC. 
 
-### 9) Ajustar e Compilaar o código do ESP32
+### 9) Ajustar e Compilar o código do ESP32
    - Ajuste o main.io.
    - Abra o Arduino IDE e selecione a placa ESP32.
    - Porta COM correta.
    - Compile e carregue.
 
 ### 10) Teste com Postman
-   - Envie comandos via Node-RED on/off
+   - Envie comandos via Node-RED on/off.
    - ESP32 (Serial Monitor) mostra mensagem e liga o LED.
    - Node-RED recebe e faz PATCH para Orion.
 
 ### 11) Teste das leituras do LDR
    
-### 12) Após testes, feche as portas abertas.
+### 12) Após testes, feche as portas abertas
 
 ## Links 🌐
 
