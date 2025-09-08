@@ -65,4 +65,10 @@ Rayssa Luzia Portela Aquino - RM:562024
    
 ### 12) Após testes, feche as portas abertas.
 
+## Links 🌐
+
+### Simulação no Wokwi: https://wokwi.com/projects/381403531345819649
+
+### Link do vídeo: https://youtu.be/yztcb3XRRrE
+
  
